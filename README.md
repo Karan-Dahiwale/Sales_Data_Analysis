@@ -2,7 +2,7 @@
 
 ### 🚀 *🚀 Predicting future retail sales using data-driven insights and Time Series Analysis in Python.*
 
----
+
 
 ## 📘 Project Description / Purpose  
 
@@ -14,7 +14,7 @@ Key capabilities:
 - Time series analysis using **ARIMA/SARIMA**
 - Interactive **Streamlit dashboard** for real-time exploration
 
----
+
 
 ## 🧰 Tech Stack  
 
@@ -27,7 +27,7 @@ Key capabilities:
 | **Dashboard** | Streamlit |
 | **Version Control** | Git & GitHub |
 
----
+
 
 ## 📊 Data Source 
 
@@ -57,8 +57,6 @@ It includes details such as product category, item, price, sales quantity, total
 
 
 
----
-
 ## 💡 Features & Highlights  
 
 ### 🧩 Business Problem  
@@ -71,7 +69,7 @@ This project provides a **data-driven forecasting tool** to improve planning acc
 - Build **ARIMA/SARIMA models** for reliable forecasts  
 - Present results through an **interactive dashboard**
 
----
+
 
 ### 🔍 Walkthrough of Key Visuals  
 
@@ -83,7 +81,7 @@ This project provides a **data-driven forecasting tool** to improve planning acc
 | **Forecast Plot** | Visualizes future sales vs actuals |
 | **Data Insights View** | Allows filtering by store or product |
 
----
+
 
 ### 📈 Business Impact & Insights  
 
@@ -92,7 +90,6 @@ This project provides a **data-driven forecasting tool** to improve planning acc
 ✅ Enhanced understanding of seasonality  
 ✅ Empowered business teams with interactive insights  
 
----
 
 ## 🧠 Methodology  
 
@@ -109,7 +106,7 @@ This project provides a **data-driven forecasting tool** to improve planning acc
    - Built ARIMA/SARIMA models  
    - Evaluated with RMSE & MAPE    
 
----
+
 
 
 ## ⚙️ How to Run the Project  
