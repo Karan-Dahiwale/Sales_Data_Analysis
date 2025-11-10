@@ -1,6 +1,6 @@
 # 📈 Sales Forecasting  
 
-### 🚀 *🚀 Predicting future retail sales using data-driven insights and Time Series Analysis in Python.*
+### 🚀 *Predicting future retail sales using data-driven insights and Time Series Analysis in Python.*
 
 
 
