@@ -1,23 +1,6 @@
-# 📈 Sales Forecasting Web Dashboard  
+# 📈 Sales Forecasting  
 
-### 🚀 *Predicting future retail sales through data-driven insights using Python, Time Series Analysis, and Streamlit.*
-
----
-
-![Dashboard Banner](https://github.com/yourusername/sales-forecasting-dashboard/assets/banner_image.png)
-
----
-
-## 🧭 Table of Contents  
-1. [📘 Project Description / Purpose](#-project-description--purpose)  
-2. [🧰 Tech Stack](#-tech-stack)  
-3. [📊 Data Source](#-data-source)  
-4. [💡 Features & Highlights](#-features--highlights)  
-5. [🧠 Methodology](#-methodology)  
-6. [🖼️ Dashboard Screenshots](#️-dashboard-screenshots)  
-7. [⚙️ How to Run the Project](#️-how-to-run-the-project)  
-8. [🚀 Future Enhancements](#-future-enhancements)  
-9. [👨‍💻 Author](#-author)  
+### 🚀 *🚀 Predicting future retail sales using data-driven insights and Time Series Analysis in Python.*
 
 ---
 
@@ -49,8 +32,6 @@ Key capabilities:
 ## 📊 Data Source 
 
 
-## 📊 Data Source  
-
 This project uses a **sample retail transaction dataset** simulating real-world daily sales records.  
 It includes details such as product category, item, price, sales quantity, total spent, customer location, and payment method.
 
@@ -75,11 +56,6 @@ It includes details such as product category, item, price, sales quantity, total
 - Converted `Date` to datetime format, extracted time-based features, and aggregated daily sales for forecasting.  
 
 
----
-
-
-
- 
 
 ---
 
@@ -131,25 +107,10 @@ This project provides a **data-driven forecasting tool** to improve planning acc
 
 3. **Model Development**  
    - Built ARIMA/SARIMA models  
-   - Evaluated with RMSE & MAPE  
-
-4. **Dashboard Deployment**  
-   - Streamlit interface for real-time forecasting visualization  
+   - Evaluated with RMSE & MAPE    
 
 ---
 
-## 🖼️ Dashboard Screenshots  
-
-### 🔹 Dashboard Home  
-![Dashboard Overview](sandbox:/mnt/data/dashboard_page_1.png)
-
-### 🔹 Forecast Visualization  
-![Forecast Chart](sandbox:/mnt/data/dashboard_page_2.png)
-
-### 🔹 Trend & Seasonality  
-![Trend Analysis](sandbox:/mnt/data/dashboard_page_3.png)
-
----
 
 ## ⚙️ How to Run the Project  
 
